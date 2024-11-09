@@ -1,0 +1,14 @@
+/*.py
+# /TCS C-answer.py
+# /TCS D-answer.py
+# /TCS E-answer.py
+
+/ex1-forloop.py
+/ex2-dfunction.py
+
+auto-gen-files/*.txt
+# auto-gen-files/file2.txt
+# auto-gen-files/file3.txt
+
+# /RSA.py
+# /RSA2.py
